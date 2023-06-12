@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-=======
-#!bin/bash
->>>>>>> 238f80a556e9d35f0b5e207c2327892711d6c4a5
 find . -type d -not -name '.' | wc -l
