@@ -1,0 +1,2 @@
+#!bin/bash
+fnd . -type d ! -path . -print | wc -l
