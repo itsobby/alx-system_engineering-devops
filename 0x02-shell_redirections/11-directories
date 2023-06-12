@@ -1,2 +1,2 @@
 #!bin/bash
-fnd . -type d -not -name | wc -l
+fnd . -type d -not -path | wc -l
